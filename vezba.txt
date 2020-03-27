@@ -1,2 +1,2 @@
 Ovo je prva linija novog fajla!
-
+Ovo je druga linija novog fajla!
